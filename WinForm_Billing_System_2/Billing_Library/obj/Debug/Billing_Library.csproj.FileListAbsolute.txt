@@ -1,0 +1,4 @@
+C:\Users\ktuser\Desktop\abhamid\WinForm_Billing_System_2\Billing_Library\bin\Debug\Billing_Library.dll
+C:\Users\ktuser\Desktop\abhamid\WinForm_Billing_System_2\Billing_Library\bin\Debug\Billing_Library.pdb
+C:\Users\ktuser\Desktop\abhamid\WinForm_Billing_System_2\Billing_Library\obj\Debug\Billing_Library.dll
+C:\Users\ktuser\Desktop\abhamid\WinForm_Billing_System_2\Billing_Library\obj\Debug\Billing_Library.pdb
